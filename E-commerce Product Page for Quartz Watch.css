@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+}
+
+.price {
+    font-size: 1.5em;
+    color: green;
+}
+
+.review {
+    border-bottom: 1px solid #dee2e6;
+    padding: 10px 0;
+}
+
+.card {
+    margin: 10px 0;
+}
